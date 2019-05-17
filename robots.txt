@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eshialahre.chrislsavage.com/sitemap.xml
